@@ -19,4 +19,3 @@
 9. I have included all the result .csv files created by the above operations in the Data folder. 
 
 
-[Presentation.pdf](https://github.com/karanmankar95/Fake_News_Detection/files/6563697/Presentation.pdf)
