@@ -17,3 +17,5 @@
 8. After that please run the Exploratory_Data_Analysis.ipynb notebook over the newly combined finalData followed by the Modeling.ipynb notebook.
 
 9. I have included all the result .csv files created by the above operations in the Data folder. 
+
+[Presentation.pptx](https://github.com/karanmankar95/Fake_News_Detection/files/6563686/Presentation.pptx)
